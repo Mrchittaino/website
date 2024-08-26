@@ -1,0 +1,46 @@
+
+.video-title{
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 25px;
+  margin-bottom: 5px;
+}
+
+.info-area{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+
+}
+
+.name-account{
+color: rgb(96, 96, 96);
+font-size: 14px;
+margin-bottom: 20px;
+}
+
+.video-description{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.apple-text{
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-left: 16px;
+}
+
+.shop-button:hover{
+text-decoration: underline;
+cursor: pointer;
+}
